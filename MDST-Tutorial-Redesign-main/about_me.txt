@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+Hi! My name is Ian Zhang. I am in the class of 2026, and I am going to go into Computer Science. A fun fact about me is that I have two dogs and a cat.
